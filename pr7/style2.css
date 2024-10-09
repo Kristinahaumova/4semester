@@ -1,0 +1,72 @@
+.p1{
+    text-align: center;
+}
+.p2{
+    text-indent: 35px;
+}
+.p3{
+    word-spacing: 10px;
+}
+.p4{
+   letter-spacing: 5px;
+}
+.p5{
+    white-space: nowrap
+}
+.p6{
+  text-transform: uppercase;
+}
+.p7{
+    direction: rtl;
+}
+.p8{
+  unicode-bidi: embed;
+}
+.p9{
+  text-decoration: line-through;
+}
+.p10:first-letter {
+  font-size: 2em;
+  margin-right: 2px; 
+  color: #EE9966;
+  font-weight: bold;
+  text-shadow: -1px -1px 1px white, 1px 1px 1px #9E9D99;
+}
+.p11{
+    font-family: "Arial", Georgia, Serif;
+}
+.p12{
+  font-style: italic;
+}
+.p13{
+    font-variant: small-caps;
+}
+.p14{
+    font-weight:  bolder;
+}
+.p15{
+    font-size: 24px;
+}
+.p16{
+    color: rgb(35%,169%,100%);
+}
+.p17{
+    font: italic bold 14px/1.5 Times, 'New Century Schoolbook', serif;
+}
+.p18{
+    img {vertical-align: baseline;}
+}
+.p19{
+    line-height: 20px
+}
+p:first-letter{
+  font-size: 1.5em;
+  padding: 2px 10px;
+  margin-right: 5px; 
+  background: url(https://html5book.ru/wp-content/uploads/2015/01/border-orange.png);
+  border: 2px solid #EE9966;
+  color: #544E3E;
+  float: left;
+  font-weight: bold;
+  box-shadow: 1px 1px 1px #9E9D99;
+}

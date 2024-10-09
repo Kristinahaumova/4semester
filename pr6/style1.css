@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(233, 179, 226);
+
+}
+.contentt{
+    display: flex;
+}
+p{
+    width: 55%;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 18px;
+}
+h1{
+    font-size: 24px;
+}
+*{
+    font-size: 16px;
+}
